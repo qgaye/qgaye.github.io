@@ -1,4 +1,47 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>QGAYE's Blog</title><link>https://qgaye.github.io/</link><description>Recent content on QGAYE's Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 27 Jul 2022 00:07:09 +0800</lastBuildDate><atom:link href="https://qgaye.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>猪肉又要暴涨？</title><link>https://qgaye.github.io/posts/sunriches/%E7%8C%AA%E8%82%89%E5%8F%88%E8%A6%81%E6%9A%B4%E6%B6%A8/</link><pubDate>Wed, 27 Jul 2022 00:07:09 +0800</pubDate><guid>https://qgaye.github.io/posts/sunriches/%E7%8C%AA%E8%82%89%E5%8F%88%E8%A6%81%E6%9A%B4%E6%B6%A8/</guid><description>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>QGAYE's Blog</title><link>https://qgaye.github.io/</link><description>Recent content on QGAYE's Blog</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 31 Jul 2022 01:19:13 +0800</lastBuildDate><atom:link href="https://qgaye.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>[硬核]美联储到底如何加息的?投资者必须知道的核心金融知识</title><link>https://qgaye.github.io/posts/moneyxyz/%E7%A1%AC%E6%A0%B8%E7%BE%8E%E8%81%94%E5%82%A8%E5%88%B0%E5%BA%95%E5%A6%82%E4%BD%95%E5%8A%A0%E6%81%AF%E7%9A%84%E6%8A%95%E8%B5%84%E8%80%85%E5%BF%85%E9%A1%BB%E7%9F%A5%E9%81%93%E7%9A%84%E6%A0%B8%E5%BF%83%E9%87%91%E8%9E%8D%E7%9F%A5%E8%AF%86/</link><pubDate>Sun, 31 Jul 2022 01:19:13 +0800</pubDate><guid>https://qgaye.github.io/posts/moneyxyz/%E7%A1%AC%E6%A0%B8%E7%BE%8E%E8%81%94%E5%82%A8%E5%88%B0%E5%BA%95%E5%A6%82%E4%BD%95%E5%8A%A0%E6%81%AF%E7%9A%84%E6%8A%95%E8%B5%84%E8%80%85%E5%BF%85%E9%A1%BB%E7%9F%A5%E9%81%93%E7%9A%84%E6%A0%B8%E5%BF%83%E9%87%91%E8%9E%8D%E7%9F%A5%E8%AF%86/</guid><description>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=0U8ZT0nVPEI">[硬核]美联储到底如何加息的?投资者必须知道的核心金融知识&lt;/a>&lt;/p>
+&lt;p>美联储调整的是联邦基金利率（Federal Funds Rate，FFR），它是银行之间相互借贷的利率，这种借贷是一种非常短期的贷款，往往只借一个晚上，所以也被称作银行间隔夜拆借利率（Overnight Rate）&lt;/p>
+&lt;p>&lt;img loading="lazy"
+src="https://qgaye.github.io/pics/%e5%a4%ae%e8%a1%8c%e5%92%8c%e5%95%86%e4%b8%9a%e9%93%b6%e8%a1%8c%e5%85%b3%e7%b3%bb.png"
+alt="央行和商业银行关系"
+width=2456
+height="1042" />&lt;/p>
+&lt;p>商业银行在央行上的账户称为Master Account，商业银行存到央行的钱被称为准备金（Reserve），商业银行间互相借的钱就是这个Reserve，而这个借款的利率就是隔夜拆借利率&lt;/p>
+&lt;p>为什么银行间需要相互借贷：很多国家要求商业银行必须把客户存款一定比例的Reserve存到央行的账户上，来确保银行能满足客户的取款需求，这个比例就是准备金率，银行按要求的准备金率存在央行Master Account里的Reserve称为法定准备金（Required Reserve），如果银行存多了，超出的部分被称为超额准备金（Excess Reserve），当一个银行发现自己的法定准备金低于要求后，就需要从别的银行那去借准备金来达到要求，但美国在2020年起就已经取消了准备金率的要求，但银行间依然在频繁的进行相互借贷，说明准备金率只是银行间借贷产生的表面原因，而银行存准备金以及相互借贷的最根本的目的就是为了满足银行客户的取款和转账需求&lt;/p>
+&lt;p>美联储调整FFR的方法：本质还是控制准备金的供需关系&lt;/p>
+&lt;ul>
+&lt;li>公开市场操作（Open Market Operation）：当美联储想要增加市场上的准备金时，它就会高价购买银行持有的美国国债或其他债券，然后把银行Master Account上的准备金的数字直接增加（这其实就是所谓的印钱过程），当美联储想要减少准备金的供给，它就会低价把这些债券卖给银行，然后把银行Master Account的准备金数字减少（这其实就是货币销毁的过程）&lt;/li>
+&lt;li>调整行政利率：Federal Discount Rate、IORB（IORR&amp;amp;IORE） Rate、ON RRP Rate，通过调整这些利率来倒逼银行间借贷的利率（FFR）&lt;/li>
+&lt;/ul>
+&lt;p>美联储对FFR的操作手段并不是一成不变的，在不同的历史时期都有明显不同的操作，而2008年金融危机是一个重要的节点，08年以前准备金市场是一个供给稀缺型市场（因为当时美联储不会向银行Master Account的准备金支付利率，因此银行会选择尽量只存够法定准备金），超额准备金梳理很少，而08年后则转变为供给过剩型市场（美联储大量QE印钱刺激经济，并且美联储向银行在Master Account存的准备金支付利息），导致准备金过剩&lt;/p>
+&lt;p>Master Account的准本金利息分为对法定准备金的IORR（Interest Rate on Required Reserves）和对超额准本金的IOER（Interest Rate on Excess Reserves），区分开来主要是因为超额准备金的利率才是真正影响银行间借贷的利率，但随着2020年美联储取消法定准备金，这两个利率被合并为IORB（Interest Rate on Reserve Balance）&lt;/p>
+&lt;hr>
+&lt;p>准备金稀缺型市场（08年以前）&lt;/p>
+&lt;p>&lt;img loading="lazy"
+src="https://qgaye.github.io/pics/08%e5%b9%b4%e5%89%8dFFR%e6%9b%b2%e7%ba%bf.png"
+alt="08年前FFR曲线"
+width=1716
+height="986" />&lt;/p>
+&lt;p>银行除了向其他银行借准备金外，也可以向美联储借准备金，这个利率就是Federal Discount Rate，这个利率是美联储决定的，其他银行为了和美联储竞争准本金的放贷，就必须保证其利率低于美联储的利率，因此FFR必然低于Federal Discount Rate&lt;/p>
+&lt;p>银行除了向其他银行放贷准本金外，也可以存在Master Account吃美联储给的利息，因此FFR必然高于IORB，不然银行都还存着吃利息而不是像市场放贷，08年以前因为美联储不给Master Account的准备金支付利息，因此此时FFR的最低下限就是0&lt;/p>
+&lt;p>08年以前美联储最主要就是通过公开市场操作来调节准本金的供给量，由于美联储一贯希望Discount Rate和FFR间有一个固定差值，美联储在调整FFR目标时也往往会同时调整Federal Discount Rate这个上限&lt;/p>
+&lt;hr>
+&lt;p>准备金过剩型市场（08年以后）&lt;/p>
+&lt;p>&lt;img loading="lazy"
+src="https://qgaye.github.io/pics/08%e5%b9%b4%e5%90%8eFFR%e6%9b%b2%e7%ba%bf.png"
+alt="08年后FFR曲线"
+width=1668
+height="1068" />&lt;/p>
+&lt;p>08年后美联储开始支付Master Account准本金的利率，因此IORB不再是0了，FFR的下限向上移动，随后美联储开始大规模QE刺激经济，让市场上的准备金变得过剩，导致供给曲线向右移动，当供给严重大于需求就会出现三个问题：&lt;/p>
+&lt;ul>
+&lt;li>导致FFR非常接近于0，银行就不再需要向美联储借准本金，Federal Discount Rate就失去了作为FFR的上限的意义&lt;/li>
+&lt;li>由于供给严重过剩时，美联储再去调整准本金的供给线时，FFR基本不会变化（对应图中FFR无限趋近于一条直线），因此此时08年前用的公开市场操作的作用就不大了&lt;/li>
+&lt;li>理论上FFR不应该低于IORB（银行间借贷利率低于美联储给的准备金利息），但此时往往会出现FFR低于IORB的现象，此时银行间还相互借贷的原因是，其一，当FFR低到无限接近0时，银行间借贷产生的手续等费用带来的利润相对于利息来说就变得明显了，FFR加上各种费用后的利润可能依然高于IORB，其二，除了商业银行外只有极少数的金融机构有资格在美联储开设Master Account，也就是说不是所有机构都能享受到准备金IORB利息的，而QE后这些机构手中拥有大量资金，但银行给出的存款利息又太低，几乎为0，因此它们就会参与到银行的短期借贷市场的竞争中，从而将短期借贷利率压到IORB以下（因为它们本身也赚不到IORB的利息，因此也就不存在机会成本）&lt;/li>
+&lt;/ul>
+&lt;p>虽然理论上Federal Discount Rate还是FFR的顶部上限，但是FFR实际上一直在IORB上下极小范围内浮动，IORB这个底成为了FFR的一个锚点，而调节这个IORB利率就成了美联储影响FFR的最主要的政策工具（为了保证FFR和Federal Discount Rate间的差值，在调整FFR时也会调整Federal Discount Rate）&lt;/p>
+&lt;p>由于没有Master Account的金融机构因为享受不到IORB，它们参与到短期借贷利率市场中会导致FFR可能低于IORB很多，因此美联储需要一个新的FFR的下限，其就是逆回购操作利率（ON RRP Rate），逆回购就是指美联储先将各类债券卖给那些没有Master Account的金融机构，并承诺未来以更高的价格再把这些债券从金融机构手中买回，从而让金融机构赚取差价，变相给这些享受不到IORB利息的金融机构一个赚取美联储利息的特权，而这个利率就是ON RRP Rate&lt;/p>
+&lt;p>为什么ON RRP Rate可以成为FFR的下限？因为银行和金融机构间的隔夜拆借都是没有抵押的借贷，而逆回购则有债券作为抵押品的，几乎没有风险，因此这些没有Master Account的金融机构就更愿意和美联储来做逆回购交易，别的机构想要和美联储竞争，就必须提高更高的利率，因此逆回购操作利率就成为FFR的新下限&lt;/p>
+&lt;p>由于目前这套系统中美联储可以调节的利率浮动太低了，变化太微小了，美联储很难像08年以前那样实现精确打进，因此现在FFR的Target也就从08年之前的一个具体的数值，变为现在的一个范围Target Range&lt;/p></description></item><item><title>猪肉又要暴涨？</title><link>https://qgaye.github.io/posts/sunriches/%E7%8C%AA%E8%82%89%E5%8F%88%E8%A6%81%E6%9A%B4%E6%B6%A8/</link><pubDate>Wed, 27 Jul 2022 00:07:09 +0800</pubDate><guid>https://qgaye.github.io/posts/sunriches/%E7%8C%AA%E8%82%89%E5%8F%88%E8%A6%81%E6%9A%B4%E6%B6%A8/</guid><description>
 &lt;p>&lt;a href="https://www.youtube.com/watch?v=rMHa9okZXtE">猪肉又要暴涨？&lt;/a>&lt;/p>
 &lt;p>外三元猪：指猪的一个杂交模式，由三个进口的纯种的长白、大白、杜洛克配种而来，外三元生猪的特点是生长速度快、饲料报酬高、瘦肉率高等，同时适应性好、无应激敏感现象，比较适合规模化养殖，这些优点让其成为了国内重要的养殖品种，简而言之，外三元猪就是普通人饭碗里的猪肉，其价格也就代表着猪肉市场的价格&lt;/p>
 &lt;p>非瘟之后，中国核心种猪群遭遇严重破坏，能繁母猪总量从爆发非瘟之前的3300万头，快速滑落至1900万头，较正常年份去化幅度高达约50%左右，这一时期猪企和养殖户为了扩张产能直接将育肥的三元母猪当正常母猪使用，导致三元能繁占比不断走高，在2020年一季度后高达45%，而三元的生产效率与二元母猪差距很大，因此能繁母猪数据夹杂着大量的低效能三元，以此数据来判断猪周期其实已经丧失了意义&lt;/p>
@@ -32,7 +75,7 @@
 &lt;p>通常情况下年轻人是精力最为旺盛的一群人，应该是潮气蓬勃、积极向上、充满冒险精神的，而现如今出现缺少朝气，还是因为他们失去了对未来的预期：&lt;/p>
 &lt;ul>
 &lt;li>对经济社会的预期：这一代年轻人找工作更难、买房压力更大、阶级跨越更艰难，对未来世界的发展方向心有疑虑&lt;/li>
-&lt;li>对制度的预期：正确的制度的意义在于公正有效的创造财富以及利益分配，面对有限的利益和无限的需求，如果没有公众认可，并且愿意遵循的分配方式，那么利益的争夺将变得无比残酷不公，社会将会变为人人争抢相互残害，如果一个社会始终都能让人民有稳定的制度预期，那么哪怕发展遇到再大的困难，年轻人心里都是有底的，他们的权利还在，属于他们的还是属于他们的，反观现实，个别地方在防疫过程中不断逾越法律，毕竟对制度的一次践踏，抵得上无数次正面宣传，只有稳定的制度预期，才会有希望，才会有动力，才会有长期行为，与之相反，一旦制度与其丧失，个人权利可能受到伤害，此时甘冒风险努力奋斗，却敌不过政策的骤然聚变，那么奋斗就没有了意义&lt;/li>
+&lt;li>对制度的预期：正确的制度的意义在于公正有效的创造财富以及利益分配，面对有限的利益和无限的需求，如果没有公众认可，并且愿意遵循的分配方式，那么利益的争夺将变得无比残酷不公，社会将会变为人人争抢相互残害，如果一个社会始终都能让人民有稳定的制度预期，那么哪怕发展遇到再大的困难，年轻人心里都是有底的，他们的权利还在，属于他们的还是属于他们的，反观现实，个别地方在防疫过程中不断逾越法律，毕竟对制度的一次践踏，抵得上无数次正面宣传，只有稳定的制度预期，才会有希望，才会有动力，才会有长期行为，与之相反，一旦制度预期丧失，个人权利可能受到伤害，此时甘冒风险努力奋斗，却敌不过政策的骤然聚变，那么奋斗就没有了意义&lt;/li>
 &lt;/ul>
 &lt;p>如果年轻人都摆烂躺平，那么任何宏大的顶层设计，也不过只是空中楼阁而已&lt;/p></description></item><item><title>中国经济通缩前的“滞涨”已经到来？</title><link>https://qgaye.github.io/posts/sunriches/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E9%80%9A%E7%BC%A9%E5%89%8D%E7%9A%84%E6%BB%9E%E6%B6%A8%E5%B7%B2%E7%BB%8F%E5%88%B0%E6%9D%A5/</link><pubDate>Sat, 23 Jul 2022 14:52:02 +0800</pubDate><guid>https://qgaye.github.io/posts/sunriches/%E4%B8%AD%E5%9B%BD%E7%BB%8F%E6%B5%8E%E9%80%9A%E7%BC%A9%E5%89%8D%E7%9A%84%E6%BB%9E%E6%B6%A8%E5%B7%B2%E7%BB%8F%E5%88%B0%E6%9D%A5/</guid><description>
 &lt;p>&lt;a href="https://www.youtube.com/watch?v=qWeeLSMcOyg">中国经济通缩前的“滞涨”已经到来？&lt;/a>&lt;/p>
